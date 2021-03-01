@@ -1,0 +1,43 @@
+A ? B : C  (3항 연산자와 같다. A 조건 만족시 B 아니면 C 출력)
+
+A 자리에 sel 은 sel==1 과 같다.
+마찬가지로
+~sel, sel==0, sel!=1 은 모두 같다.
+
+
+reg 를 wire 로 선언시 에러가 난다. 
+테스트벤치에서 값을 바꿔야 하는 것들은 reg를 써야 한다.
+assign 은 combinational 하다. 값이 바로바로 변하니까 조합회로
+
+if/else 나 case 는 순차회로 -> 아웃풋을 reg로 선언해야함 (always에서 아웃풋 값이 바뀌므로)
+
+<if/else문 예제>
+
+module mux(a,b,sel,y);
+input a,b,sel;
+output reg y;	//아웃풋 선언시 reg로 해야한다.
+
+always@(*) begin  //여기서 * 은 모든 인풋값을 지칭할때 사용
+	if(sel)
+		y=b;
+	else if (~sel)
+		y=a;
+end
+
+<case문 예제>
+
+case(sel)
+1`b1:y=b;
+default:y=a;  //default대신 1`b0 써도 같다.
+endcase
+
+숙제 설명
+
+reg a,b,c,d 각각 4bit [3:0]  -> input [3:0] a,b,c,d;
+sel 은 2bit [1:0]			-> input [1:0] sel;
+output y는 4bit [3:0]		-> output [3:0] y;
+
+assign y=(&)|(&);
+
+initial begin
+	a=$random 또는 a= 4'b|10|

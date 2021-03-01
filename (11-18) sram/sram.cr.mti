@@ -1,0 +1,15 @@
+D:/Sun/sram/sram_tb.v {1 {vlog -work work -vopt -nocovercells D:/Sun/sram/sram_tb.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module sram_tb
+
+Top level modules:
+	sram_tb
+
+} {} {}} D:/Sun/sram/sram.v {1 {vlog -work work -vopt -nocovercells D:/Sun/sram/sram.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module sram16x128
+
+Top level modules:
+	sram16x128
+
+} {} {}}

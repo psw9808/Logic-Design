@@ -1,0 +1,71 @@
+D:/logic/project1/bit4adder.v {1 {vlog -work work -stats=none D:/logic/project1/bit4adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit4adder
+
+Top level modules:
+	bit4adder
+
+} {} {}} D:/logic/project1/bit1fulladder.v {1 {vlog -work work -stats=none D:/logic/project1/bit1fulladder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit1fulladder
+
+Top level modules:
+	bit1fulladder
+
+} {} {}} D:/logic/project1/mul.v {1 {vlog -work work -stats=none D:/logic/project1/mul.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mul
+
+Top level modules:
+	mul
+
+} {} {}} D:/logic/project1/bit16adder.v {1 {vlog -work work -stats=none D:/logic/project1/bit16adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit16adder
+
+Top level modules:
+	bit16adder
+
+} {} {}} D:/logic/project1/add.v {1 {vlog -work work -stats=none D:/logic/project1/add.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add
+
+Top level modules:
+	add
+
+} {} {}} D:/logic/project1/div.v {1 {vlog -work work -stats=none D:/logic/project1/div.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module div
+
+Top level modules:
+	div
+
+} {} {}} D:/logic/project1/tb.v {1 {vlog -work work -stats=none D:/logic/project1/tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} D:/logic/project1/multiandgate.v {1 {vlog -work work -stats=none D:/logic/project1/multiandgate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multiandgate
+
+Top level modules:
+	multiandgate
+
+} {} {}} D:/logic/project1/alu.v {1 {vlog -work work -stats=none D:/logic/project1/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/logic/project1/sub.v {1 {vlog -work work -stats=none D:/logic/project1/sub.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sub
+
+Top level modules:
+	sub
+
+} {} {}}

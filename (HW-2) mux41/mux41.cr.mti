@@ -1,0 +1,8 @@
+{D:/logic/(HW-2) mux41/mux41_tb.v} {1 {vlog -work work -stats=none {D:/logic/(HW-2) mux41/mux41_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux41_tb
+
+Top level modules:
+	mux41_tb
+
+} {} {}}

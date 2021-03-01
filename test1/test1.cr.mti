@@ -1,0 +1,29 @@
+D:/logic/test1/clock_devider.v {1 {vlog -work work -stats=none D:/logic/test1/clock_devider.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} D:/logic/test1/BCDcount.v {1 {vlog -work work -stats=none D:/logic/test1/BCDcount.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BCDcount
+
+Top level modules:
+	BCDcount
+
+} {} {}} D:/logic/test1/seg7.v {1 {vlog -work work -stats=none D:/logic/test1/seg7.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module seg7
+
+Top level modules:
+	seg7
+
+} {} {}} D:/logic/test1/testbench.v {1 {vlog -work work -stats=none D:/logic/test1/testbench.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux41_tb
+
+Top level modules:
+	mux41_tb
+
+} {} {}}

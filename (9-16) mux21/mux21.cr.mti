@@ -1,0 +1,29 @@
+D:/Sun/mux21/mux21_tb.v {1 {vlog -work work -vopt -nocovercells D:/Sun/mux21/mux21_tb.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module mux21_tb
+
+Top level modules:
+	mux21_tb
+
+} {} {}} {D:/logic/(9-16) mux21/mux21.v} {1 {vlog -work work -stats=none {D:/logic/(9-16) mux21/mux21.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} {D:/logic/(9-16) mux21/mux21_tb.v} {1 {vlog -work work -stats=none {D:/logic/(9-16) mux21/mux21_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux21_tb
+
+Top level modules:
+	mux21_tb
+
+} {} {}} D:/Sun/mux21/mux21.v {1 {vlog -work work -vopt -nocovercells D:/Sun/mux21/mux21.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}}

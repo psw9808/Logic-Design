@@ -1,0 +1,15 @@
+D:/Sun/display/inverter.v {1 {vlog -work work -vopt -nocovercells D:/Sun/display/inverter.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module inverter
+
+Top level modules:
+	inverter
+
+} {} {}} D:/Sun/display/inverter_tb.v {1 {vlog -work work -vopt -nocovercells D:/Sun/display/inverter_tb.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module inverter_tb
+
+Top level modules:
+	inverter_tb
+
+} {} {}}

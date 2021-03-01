@@ -1,0 +1,15 @@
+D:/Sun/mux21test/test_tb.v {1 {vlog -work work -vopt -nocovercells D:/Sun/mux21test/test_tb.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} D:/Sun/mux21test/mux21.v {1 {vlog -work work -vopt -nocovercells D:/Sun/mux21test/mux21.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}}

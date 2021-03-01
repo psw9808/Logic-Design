@@ -1,0 +1,85 @@
+D:/logic/project2/csa16b2.v {1 {vlog -work work -stats=none D:/logic/project2/csa16b2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module csa16b2
+
+Top level modules:
+	csa16b2
+
+} {} {}} D:/logic/project2/bit1fulladder.v {1 {vlog -work work -stats=none D:/logic/project2/bit1fulladder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit1fulladder
+
+Top level modules:
+	bit1fulladder
+
+} {} {}} D:/logic/project2/bit4adder.v {1 {vlog -work work -stats=none D:/logic/project2/bit4adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit4adder
+
+Top level modules:
+	bit4adder
+
+} {} {}} D:/logic/project2/rca16b.v {1 {vlog -work work -stats=none D:/logic/project2/rca16b.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rca16b
+
+Top level modules:
+	rca16b
+
+} {} {}} D:/logic/project2/adders_tb.v {1 {vlog -work work -stats=none D:/logic/project2/adders_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adders_tb
+
+Top level modules:
+	adders_tb
+
+} {} {}} D:/logic/project2/cla16b.v {1 {vlog -work work -stats=none D:/logic/project2/cla16b.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cla16b
+
+Top level modules:
+	cla16b
+
+} {} {}} D:/logic/project2/cla4bit.v {1 {vlog -work work -stats=none D:/logic/project2/cla4bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cla4bit
+
+Top level modules:
+	cla4bit
+
+} {} {}} D:/logic/project2/mux16b.v {1 {vlog -work work -stats=none D:/logic/project2/mux16b.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux16b
+
+Top level modules:
+	mux16b
+
+} {} {}} D:/logic/project2/mux1b.v {1 {vlog -work work -stats=none D:/logic/project2/mux1b.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux1b
+
+Top level modules:
+	mux1b
+
+} {} {}} D:/logic/project2/bit16adder.v {1 {vlog -work work -stats=none D:/logic/project2/bit16adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit16adder
+
+Top level modules:
+	bit16adder
+
+} {} {}} D:/logic/project2/csa16b1.v {1 {vlog -work work -stats=none D:/logic/project2/csa16b1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module csa16b1
+
+Top level modules:
+	csa16b1
+
+} {} {}} D:/logic/project2/clb.v {1 {vlog -work work -stats=none D:/logic/project2/clb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module clb
+
+Top level modules:
+	clb
+
+} {} {}}

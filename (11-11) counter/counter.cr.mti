@@ -1,0 +1,8 @@
+D:/Sun/counter/counter_tb.v {1 {vlog -work work -vopt -nocovercells D:/Sun/counter/counter_tb.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}}

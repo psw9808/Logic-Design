@@ -1,0 +1,13 @@
+D:/Sun/demux14/demux14.v {0 {vlog -work work -vopt -nocovercells D:/Sun/demux14/demux14.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module demux14
+** Error: D:/Sun/demux14/demux14.v(1): (vlog-2110) Illegal reference to memory "y".
+** Error: D:/Sun/demux14/demux14.v(1): Illegal array access into "y"
+
+} {4.0 6.0} {}} D:/Sun/demux14/demux14_tb.v {0 {vlog -work work -vopt -nocovercells D:/Sun/demux14/demux14_tb.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module demux14_tb
+** Error: D:/Sun/demux14/demux14_tb.v(8): (vlog-2110) Illegal reference to net array "y".
+** Error: D:/Sun/demux14/demux14_tb.v(8): Illegal array access into "y"
+
+} {4.0 6.0} {}}

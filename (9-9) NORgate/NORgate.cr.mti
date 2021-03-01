@@ -1,0 +1,15 @@
+D:/logic/NORgate/NORgate.v {1 {vlog -work work -stats=none D:/logic/NORgate/NORgate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module NORgate
+
+Top level modules:
+	NORgate
+
+} {} {}} D:/logic/NORgate/NORgate_tb.v {1 {vlog -work work -stats=none D:/logic/NORgate/NORgate_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module NORgate_tb
+
+Top level modules:
+	NORgate_tb
+
+} {} {}}

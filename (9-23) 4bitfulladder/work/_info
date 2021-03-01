@@ -1,0 +1,58 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Sun\demux14
+T_opt
+Vn=0QGE17hBSoOE=IFHagK0
+04 5 4 work adder fast 0
+04 8 4 work adder_tb fast 0
+04 9 4 work bit4adder fast 0
+Z1 =1-94c6915ab144-5d883487-14d-121c
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 OE;O;6.4g;39
+vadder
+Z4 InEPlfQ_3Q9SC53zfX90403
+Z5 V^^fjCI:F=ih1W4gETCO3Z2
+Z6 dD:\Sun\4bitfulladder
+Z7 w1569207317
+Z8 8D:/Sun/4bitfulladder/adder.v
+Z9 FD:/Sun/4bitfulladder/adder.v
+L0 1
+Z10 OE;L;6.4g;39
+r1
+31
+Z11 !s102 -nocovercells
+Z12 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z13 !s100 6:kVf3=`2LZ=7V1j0b>>e1
+!s85 0
+vadder_tb
+Z14 IMNc8cdSXAK3F@ddHlR;FV1
+Z15 V`zSzFDC?QbzQbT6UfM^mZ3
+R6
+Z16 w1569207421
+Z17 8D:/Sun/4bitfulladder/adder_tb.v
+Z18 FD:/Sun/4bitfulladder/adder_tb.v
+L0 2
+R10
+r1
+31
+R11
+R12
+Z19 !s100 z1`:WbK<SdeHPfm`gJQ;f1
+!s85 0
+vbit4adder
+Z20 I;KUd5hYFhWaUnom9GbYiK0
+Z21 VcjlBXHLmhIQo^Mb7=3f442
+R6
+Z22 w1569207351
+Z23 8D:/Sun/4bitfulladder/bit4adder.v
+Z24 FD:/Sun/4bitfulladder/bit4adder.v
+L0 1
+R10
+r1
+31
+R11
+R12
+Z25 !s100 i3WNES46?`6P7`UFQAabY1
+!s85 0

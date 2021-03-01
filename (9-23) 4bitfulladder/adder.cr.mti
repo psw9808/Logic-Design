@@ -1,0 +1,22 @@
+D:/Sun/4bitfulladder/adder_tb.v {1 {vlog -work work -vopt -nocovercells D:/Sun/4bitfulladder/adder_tb.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}} D:/Sun/4bitfulladder/bit4adder.v {1 {vlog -work work -vopt -nocovercells D:/Sun/4bitfulladder/bit4adder.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module bit4adder
+
+Top level modules:
+	bit4adder
+
+} {} {}} D:/Sun/4bitfulladder/adder.v {1 {vlog -work work -vopt -nocovercells D:/Sun/4bitfulladder/adder.v
+Model Technology ModelSim SE vlog 6.4g Compiler 2010.07 Jul 23 2010
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}

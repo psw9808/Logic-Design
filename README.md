@@ -121,4 +121,4 @@ Early submission: Students will get extra points when submitted before the follo
 - 0 points: by 12/19 9:59am
 
 # My Report
-![1](./img/1.png)
+![](final project/19fall-comp311-1_proj3_박선우.docx)

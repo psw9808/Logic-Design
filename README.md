@@ -120,5 +120,5 @@ Early submission: Students will get extra points when submitted before the follo
 - 20 points: by 12/16 8:59am
 - 0 points: by 12/19 9:59am
 
-# ![My Report](https://github.com/psw9808/Logic-Design/blob/33e615d40fdd539285bbf63145cc327d040bdcc3/final%20project/19fall-comp311-1_proj3_%EB%B0%95%EC%84%A0%EC%9A%B0.docx)
+# [My Report](https://github.com/psw9808/Logic-Design/blob/33e615d40fdd539285bbf63145cc327d040bdcc3/final%20project/19fall-comp311-1_proj3_%EB%B0%95%EC%84%A0%EC%9A%B0.docx)
 

@@ -1,4 +1,4 @@
-# Logic-Design
+# Logic-Design Final Project
 
 ## 1. Goal
 Students will design an encryption/decryption system of RSA in this project. Given an input stream,

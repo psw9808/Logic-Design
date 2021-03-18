@@ -121,4 +121,4 @@ Early submission: Students will get extra points when submitted before the follo
 - 0 points: by 12/19 9:59am
 
 # My Report
-![1](./)
+![1](./final project/1.png)
